@@ -25,7 +25,7 @@ A hands-on exploration of the LangChain framework — from basic chat model inte
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nishita-7/langchain-learning
 cd LangChain
 pip install -r requirements.txt
 ```
