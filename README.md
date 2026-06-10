@@ -16,6 +16,7 @@ A hands-on exploration of the LangChain framework — from basic chat model inte
 | 8 | **Runnables** | RunnableSequence, RunnableParallel, RunnablePassthrough, RunnableLambda, RunnableBranch |
 | 9 | **Document Loaders** | Text, PDF, CSV, web, and directory loaders |
 | 10 | **Text Splitters** | Character text splitter, Recursive splitting, document structure based, semantic splitting |
+| 10 | **Vector Stores** | chroma, FAISS |
 
 ## Stack
 
